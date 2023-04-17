@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://pavel-loban.github.io/portfolio" target="_blank">Pavel Loban</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">a front-end developer🇺</h3>
 
 <!--
 **Pavel-Loban/Pavel-Loban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
